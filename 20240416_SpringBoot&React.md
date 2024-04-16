@@ -1,1 +1,5 @@
 - Sprint Boot로 만들 수 있는 것 : 웬만한거 다 만들 수 있다
+- Message Converter를 이용한 Spring Boot RESTful Service 의 특징
+    - Model 객체에 Model Key-Value를 추가하는 것이 아닌 POJO 객체를 직접 리턴
+    - @RequestBody, @ResponseBody 애너테이션 사용
+- 
