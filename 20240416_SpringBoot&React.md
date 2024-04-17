@@ -3,3 +3,4 @@
     - Model 객체에 Model Key-Value를 추가하는 것이 아닌 POJO 객체를 직접 리턴
     - @RequestBody, @ResponseBody 애너테이션 사용
 - RestController : 컨트롤러에 @ResponseBody Annotation이 내장되어 있기 때문에, 추가로 안적어줘도 됨
+- 전역 예외 처리 : @ControllerAdvice (ResponseEntityExceptionHandler 상속받아야 함) + @ResponseBody 써줘야함
