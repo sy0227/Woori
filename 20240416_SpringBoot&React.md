@@ -2,4 +2,4 @@
 - Message Converter를 이용한 Spring Boot RESTful Service 의 특징
     - Model 객체에 Model Key-Value를 추가하는 것이 아닌 POJO 객체를 직접 리턴
     - @RequestBody, @ResponseBody 애너테이션 사용
-- 
+- RestController : 컨트롤러에 @ResponseBody Annotation이 내장되어 있기 때문에, 추가로 안적어줘도 됨
