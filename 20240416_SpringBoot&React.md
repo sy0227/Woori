@@ -12,3 +12,6 @@
 - Rest 핵심 원칙 - 상태 유지하는 기법 사용 금지! (Session, Cookie)
 
 ### React
+- 조건부 렌더링 시, 삼항연산자 이용
+- jsx의 목적 : UI를 빠르고 쉽게 개발하기 위해 (jsx : javascript + xml)
+- jsx의 표기법 : Camel Casing, 단일 루트 엘리먼트, 시작/마감 태그 쌍 ( <A></A> or <A/> )
