@@ -19,3 +19,5 @@
     - 속성 : 자식이 부모에게 받은 속성은 함부로 변경 불가
     - ★ 상태와 속성은 같이 사용할 수 있다
 - React에서의 상태변경 : useState()를 호출해 리턴받은 setter 함수를 이용
+- UseEffect 훅 : 생명주기 중에 Side Effect 효과를 일으키고 싶을 때 사용
+- Context Api의 장점 : 값 전달을 많이 하지 않아도 됨 (Componenet의 재사용성이 높음)
