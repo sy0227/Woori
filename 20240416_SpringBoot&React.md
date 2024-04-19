@@ -21,3 +21,4 @@
 - React에서의 상태변경 : useState()를 호출해 리턴받은 setter 함수를 이용
 - UseEffect 훅 : 생명주기 중에 Side Effect 효과를 일으키고 싶을 때 사용
 - Context Api의 장점 : props로 속성 전달을 많이 하지 않아도 되고, Componenet의 재사용성이 높음. 중앙집중화하여 관리 가능
+- React Router의 기능 : 리액트 기반의 강력한 라우팅 라이브러리 (react-router)
