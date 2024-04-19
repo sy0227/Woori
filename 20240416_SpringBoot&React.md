@@ -1,5 +1,5 @@
 ### Spring Boot
-- (00pg) Sprint Boot로 만들 수 있는 것 : 웬만한거 다 만들 수 있다
+- Sprint Boot로 만들 수 있는 것 : 웬만한거 다 만들 수 있다
 - REST : 리소스와 관련있는건 URI에 넣고 / 없는건 쿼리스트링으로 빼야 함
 - OpenAPI 서비스 만드는 법 : REST 말고도 많은데, http 안쓰는 것도 있음
 - Message Converter를 이용한 Spring Boot RESTful Service 의 특징 : @RequestBody, <em>@ResponseBody</em> 애너테이션 사용 / Model 객체에 Model Key-Value를 추가하는 것이 아닌 POJO 객체를 직접 리턴
